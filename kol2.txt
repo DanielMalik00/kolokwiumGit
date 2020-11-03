@@ -1,2 +1,6 @@
 Zmiana2
+<<<<<<< HEAD
+Zmiana3
+=======
 Zmiana2.1
+>>>>>>> naprawaBledu
